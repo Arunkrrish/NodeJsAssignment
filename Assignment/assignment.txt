@@ -1,0 +1,8 @@
+Create a api with 3 get endpoints with three 
+different responses and one post 
+endpoint with request data printed in console
+
+create the exact same api for your project and you are free to add more endpoints.
+
+
+please run "npm install" after unzipping the project
